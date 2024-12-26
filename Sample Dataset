@@ -1,0 +1,10 @@
+ `university_data.csv`
+StudentID : Unique identifier for each student
+Name      : Name of the student
+Age       : Age of the student
+Gender    : Gender of the student
+Course    : Course enrolled
+Year      : Year of study
+GPA       : Grade Point Average
+Attendance: Attendance percentage
+Extracurricular: Participation in extracurricular activities (Yes/No)
