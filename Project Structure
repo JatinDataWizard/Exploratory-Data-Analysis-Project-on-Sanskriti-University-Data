@@ -1,0 +1,15 @@
+EDA_Sanskriti_University/
+│
+├── data/
+│   ├── university_data.csv
+│
+├── notebooks/
+│   ├── EDA_Sanskriti_University.ipynb
+│
+├── scripts/
+│   ├── data_cleaning.py
+│   ├── data_visualization.py
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
